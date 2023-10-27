@@ -1,4 +1,4 @@
-### Move Recommender System
+### Movie Recommender System
 
 #### Introduction
 
@@ -20,9 +20,7 @@ I had the privilege of leading a dedicated team of six members through this proj
 
 #### Project Demo
 
-Here is a video demonstration showcasing our project in action:
-
-[Watch on YouTube](https://www.youtube.com/watch?v=your-video-id)
+Here is a video demonstration showcasing our project in action: [Click here](https://www.youtube.com/watch?v=your-video-id)
 
 #### Conclusion
 
