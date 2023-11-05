@@ -2,7 +2,7 @@
 
 #### Introduction
 
-In this project, we've developed a powerful movie recommender system that combines content-based and collaborative filtering techniques. Recommender systems are crucial in today's digital world, enabling users to discover personalized and relevant content based on their preferences and history. Leading platforms like Netflix, Amazon Prime, and Disney utilize sophisticated algorithms to recommend movies to their users, enhancing the user experience.
+In this project, we developed a powerful movie recommender system that combines content-based and collaborative filtering techniques. Recommender systems are crucial in today's digital world, enabling users to discover personalized and relevant content based on their preferences and history. Leading platforms like Netflix, Amazon Prime, and Disney utilize sophisticated algorithms to recommend movies to their users, enhancing the user experience.
 
 #### Objective
 
