@@ -20,7 +20,7 @@ I had the privilege of leading a dedicated team of six members through this proj
 
 #### Project Demo
 
-[Here](https://www.youtube.com/watch?v=your-video-id) is a video demonstration showcasing our project in action.
+[Here](https://youtu.be/UC4SEovMxpQ?si=y2_RpbGYaO-iTjpC) is a video demonstration showcasing our project in action.
 
 #### Conclusion
 
