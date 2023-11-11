@@ -1,4 +1,4 @@
-### Movie Recommender System
+![Image 3](image/hybrid.jpg)
 
 #### Introduction
 
