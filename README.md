@@ -1,4 +1,4 @@
-![Image 3](image/hybrid.jpg)
+![Image 3](images/movie.jpg)
 
 #### Introduction
 
